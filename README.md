@@ -1,4 +1,4 @@
-# Game Sales Data Analytics Case Study
+# Games Sales Data Analytics Case Study
 Welcome! This repository houses a comprehensive data analysis project based on the [RevoU data analytics mini-course](https://revou.co/mini-course-data-analytics). In this case study, I delve into the exciting world of game sales, aiming to extract insights and answers from a dataset containing valuable information about various video games.
 
 ### **Case Study Overview:**
