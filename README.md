@@ -14,7 +14,7 @@ These are the following resources:
 - Dataset: [Google Sheets - Dataset](https://docs.google.com/spreadsheets/d/1jGCB0PSYMbuw_62oetsRJDy6BeVqRm6qV396N2u4Q2E/edit?usp=sharing)<br>
 - Python Code Notebook: [Google Colab - Python Code](https://colab.research.google.com/drive/1Yo0zTNPNeGrIAXv7brWARDWnUAyMOd8z?usp=sharing)<br>
 - Presentation Slides: [Google Slides - Presentation](https://docs.google.com/presentation/d/10NBDV3tAnFj9ZZsRefDKaWdGWpUnYlAumTo35-xNOXY/edit?usp=sharing)<br>
-- Interactive Dashboard: [Google Data Studio - Dashboard](https://lookerstudio.google.com/reporting/eacbd915-604e-44b1-a215-7d1c7dbcbbfe)<br>
+- Interactive Dashboard: [Google Data Studio - Dashboard](https://lookerstudio.google.com/reporting/2ebab3e3-88bb-4955-a29f-cc8957c1cffe)<br>
 
 ### **Tools Utilized:**
 - Google Colab
