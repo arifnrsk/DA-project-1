@@ -21,3 +21,9 @@ These are the following resources:
 - Google Data Studio
 - Google Sheets
 - Google Slides
+
+### **Skills:**
+1. Google Sheets.
+2. Google Slides.
+3. Python.
+4. Google Data Studio.
