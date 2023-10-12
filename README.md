@@ -16,13 +16,13 @@ These are the following resources:
 - Presentation Slides: [Google Slides - Presentation](https://docs.google.com/presentation/d/10NBDV3tAnFj9ZZsRefDKaWdGWpUnYlAumTo35-xNOXY/edit?usp=sharing)<br>
 - Interactive Dashboard: [Google Data Studio - Dashboard](https://lookerstudio.google.com/reporting/2ebab3e3-88bb-4955-a29f-cc8957c1cffe)<br>
 
-**Tools Utilized:**
+### **Tools Utilized:**
 - Google Colab
 - Google Data Studio
 - Google Sheets
 - Google Slides
 
-**Skills:**
+### **Skills:**
 1. Google Sheets.
 2. Google Slides.
 3. Python.
